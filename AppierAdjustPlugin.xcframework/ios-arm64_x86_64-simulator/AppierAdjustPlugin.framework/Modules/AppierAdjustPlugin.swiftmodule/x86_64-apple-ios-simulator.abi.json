@@ -1,0 +1,100 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "AppierAdjustPlugin",
+    "printedName": "AppierAdjustPlugin",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Appier",
+        "printedName": "Appier",
+        "declKind": "Import",
+        "moduleName": "AppierAdjustPlugin",
+        "declAttributes": [
+          "SPIAccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Appier",
+        "printedName": "Appier",
+        "declKind": "Import",
+        "moduleName": "AppierAdjustPlugin",
+        "declAttributes": [
+          "SPIAccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AdjustSdk",
+        "printedName": "AdjustSdk",
+        "declKind": "Import",
+        "moduleName": "AppierAdjustPlugin"
+      },
+      {
+        "kind": "Import",
+        "name": "Appier",
+        "printedName": "Appier",
+        "declKind": "Import",
+        "moduleName": "AppierAdjustPlugin",
+        "declAttributes": [
+          "SPIAccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AdjustSdk",
+        "printedName": "AdjustSdk",
+        "declKind": "Import",
+        "moduleName": "AppierAdjustPlugin"
+      },
+      {
+        "kind": "Import",
+        "name": "AdjustSdk",
+        "printedName": "AdjustSdk",
+        "declKind": "Import",
+        "moduleName": "AppierAdjustPlugin"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AppierAdjustPlugin"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/johnson.wang\/Documents\/Appier\/appier-ios-development\/appier-ios\/Plugin\/appier-ios-adust-plugin\/AppierAdjustPlugin\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 220,
+      "length": 14,
+      "value": "\"AdjustPlugin\""
+    },
+    {
+      "filePath": "\/Users\/johnson.wang\/Documents\/Appier\/appier-ios-development\/appier-ios\/Plugin\/appier-ios-adust-plugin\/AppierAdjustPlugin\/AppierAdjustPlugin.swift",
+      "kind": "BooleanLiteral",
+      "offset": 243,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnson.wang\/Documents\/Appier\/appier-ios-development\/appier-ios\/Plugin\/appier-ios-adust-plugin\/AppierAdjustPlugin\/AdjustDeepLinkHandler.swift",
+      "kind": "BooleanLiteral",
+      "offset": 289,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnson.wang\/Documents\/Appier\/appier-ios-development\/appier-ios\/Plugin\/appier-ios-adust-plugin\/AppierAdjustPlugin\/AdjustDeepLinkHandler.swift",
+      "kind": "Array",
+      "offset": 337,
+      "length": 2,
+      "value": "[]"
+    }
+  ]
+}
