@@ -1,0 +1,13 @@
+# Bundler
+.bundle
+vendor
+
+# Fastlane
+fastlane/report*
+
+# Swift Packages
+.swiftpm
+.build
+
+# Misc
+.DS_Store
