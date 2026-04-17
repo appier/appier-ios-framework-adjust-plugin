@@ -8,7 +8,7 @@ Adjust MMP integration plugin for the Appier iOS SDK. This plugin self-registers
 
 ## Requirements
 
-- iOS 16.0+
+- iOS 12.0+
 - Appier iOS SDK 8.7.0+
 - Adjust iOS SDK 5.6.x
 
@@ -55,7 +55,7 @@ The plugin uses an Objective-C `+load` method to register itself with the Appier
 
 ## Author
 
-Appier Inc., shiv.raj@appier.com
+Appier Inc.
 
 ## License
 
